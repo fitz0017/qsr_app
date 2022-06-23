@@ -1,0 +1,29 @@
+[
+
+	{"id": "001", 	
+	"name": "turkey",
+	"size": 12,
+	"protein": "turkey",
+	"price": 10.99,
+	"description": "Delicious, footlong turkey sandwich!",
+	"imgPath": "TBD"
+	},
+	{"id": "002", 
+        "name":"meatball",
+	"size": 12,
+	"protein": "turkey",
+	"price": 14.99,
+	"description": "Delicious, footlong meatball sandwich!",
+	"imgPath": "TBD"
+	},
+	{"id": "003", 
+        "name": "philly cheese",
+	"size": 12,
+	"protein": "steak",
+	"price": 16.99,
+	"description": "Delicious, footlong philly cheese sandwich!",
+	"imgPath": "TBD"
+	}
+	
+
+]
