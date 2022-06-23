@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>QSR Food!</title>
+	<link rel="stylesheet" href="index.css">
+	<script src="index.js" defer></script>
+	</head>
+	<body>
+		Here are some tasty selections: {% for x in food %}
+		<ul>
+			<li>{{ x.name }}</li>
+		</ul>
+		{% endfor %}
+	</body>
+</html>
